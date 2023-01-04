@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in coding, especially in frontend
-- 🌱 I’m currently learning basics of HTML and CSS
+- 🌱 I've already learnt basic stuff and i can create simple web pages!
 
 
 <!---
